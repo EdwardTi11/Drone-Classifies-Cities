@@ -1,4 +1,4 @@
-# China City Classification and Scene Density Estimation with TensorFlow
+# HydraSight: Multi-Head City Classification and Scene Density Estimation with TensorFlow
 
 ## Overview
 
